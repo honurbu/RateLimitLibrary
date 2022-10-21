@@ -1,4 +1,4 @@
-# .Net RateLimitLibrary
+# .Net Core RateLimitLibrary
 .Net RateLimitLibrary. This library is used to provide both security and stability.
 
 
